@@ -1,0 +1,5 @@
+body {
+    color: #FFF;
+    background-color: #FD940A !important;
+    background-image: radial-gradient(circle, #0096c7 0%, #023e8a 70%, #03045e 100%);
+}
